@@ -55,7 +55,7 @@ This project is a static frontend clone of Amazon's homepage, built entirely wit
 
 ## 🚀 Live Demo
 
-[View Live Demo](your-github-pages-link-here) *(Deploy on GitHub Pages)*
+https://amazon-clone-by-ritesh.netlify.app/
 
 ## 📸 Screenshots
 
